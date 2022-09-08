@@ -1,0 +1,23 @@
+#main{
+    margin: 10%;
+    padding: 5%;
+}
+#spid{
+    margin-bottom: 20px;
+}
+#spname{
+    margin-bottom: 20px;
+}
+#spprice{
+    margin-bottom: 20px;
+}
+#add{
+    margin-left: 105px;
+    margin-top: 3%;
+}
+#tds{
+    padding: 20px;
+}
+#tdh{
+    padding:10px;
+}
